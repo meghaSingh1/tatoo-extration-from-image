@@ -14,17 +14,17 @@ This project aims to extract tattoo designs from images using advanced image pro
    python -m venv venv
    source venv/bin/activate
 
-Install the required dependencies:
+2. Install the required dependencies:
 
-```
-pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt
 
-Usage
-Make sure the virtual environment is activated.
+3. Usage
+   
+   Make sure the virtual environment is activated.
+   Run the main script:
+   
+   python main.py
 
-Run the main script:
-
-python main.py
-
-Access the web interface by opening a web browser and navigating to
-http://localhost:5000.
+4. Access the web interface by opening a web browser and navigating to
+   http://localhost:5000.
