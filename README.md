@@ -22,9 +22,10 @@ This project aims to extract tattoo designs from images using advanced image pro
 3. Usage
    
    Make sure the virtual environment is activated.
+   ```
    Run the main script:
    
    python main.py
 
-4. Access the web interface by opening a web browser and navigating to
-   http://localhost:5000.
+5. Access the web interface by opening a web browser and navigating to
+   http://localhost:8080.
