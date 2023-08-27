@@ -29,3 +29,8 @@ This project aims to extract tattoo designs from images using advanced image pro
 
 5. Access the web interface by opening a web browser and navigating to
    http://localhost:8080.
+
+6. Screeshots
+
+   ![Screenshot from 2023-08-28 03-29-52](https://github.com/meghaSingh1/tatoo-extration-from-image/assets/30502286/595316b9-2937-4154-a907-b21900ccfa5d)
+
