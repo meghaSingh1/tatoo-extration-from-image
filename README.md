@@ -7,4 +7,5 @@ source venv/bin/activate
 pip install -r requrements.txt
 
 Run project
+
 python main.py
